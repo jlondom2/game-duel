@@ -1,6 +1,6 @@
 # Game Duel
 
-![logo](../img/logo.png)
+
 
 
 
