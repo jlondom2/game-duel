@@ -1,15 +1,15 @@
-# React Bootstrap Starter
+# Game Duel
 
-![logo](./screenshots/react-bootstrap-starter.png)
+![logo](./img/logo.png)
 
-[Documentation](https://chrisdevcode.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
 
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). This theme uses Create React App, react-bootstrap and gh-pages.
+
+Im learning REACT developing this project. it's a Game News React APP
 
 
 ## Download and Installation
 
-To begin using this template, choose one of the following options to get started:
+
 
 Fork and clone the repository.
 
@@ -21,7 +21,7 @@ npm install
 
 ## Usage
 
-Start editing and customizing according to your needs.
+Project to learning React
 
 Run locally:
 
@@ -37,24 +37,17 @@ npm start
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? Open a new issue here on GitHub.
+testing
 
 ## Copyright and License
 
-Copyright 2021 Chris Achinga. Code released under the [MIT license](LICENSE).
+Copyright 2021 Juan Londono. Code released under the [MIT license](LICENSE).
 
 ## Status
 
 <div align='center'>
 
-[![GitHub forks](https://img.shields.io/github/forks/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/network)
 
-[![GitHub stars](https://img.shields.io/github/stars/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/stargazers)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/status.svg)](https://depfu.com)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/overview.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/count.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
 
 </div>
+
