@@ -18,7 +18,7 @@ console.log(data);
   return <div>
     <h1 className='text-center'>Data fetched successfully.</h1>
 
-    {data?.map(value=>(<div>{value.title}</div>))}
+    {/* {data?.map(value=>(<div>{value.title}</div>))} */}
 
    
    
